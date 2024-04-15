@@ -9,7 +9,7 @@
 
 #define X_RT &none
 #define X_RM &none
-#define X_RB &none
+#define X_RB &mo SYS
 #define X_RH &none
 
 /* activate bluetooth */
